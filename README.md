@@ -74,8 +74,7 @@ Ask me: bye
 Goodbye! Have a nice day 💖
 ```
 Output:
-[chatbotoutput.py](https://github.com/user-attachments/files/21813550/chatbotoutput.py)
----
+
 
 ##  Applications
 
