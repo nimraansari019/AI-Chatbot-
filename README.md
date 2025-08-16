@@ -1,7 +1,4 @@
 
-
-
-
 #  NLP Chatbot using NLTK
 
 ##  Project Overview
@@ -74,6 +71,7 @@ Ask me: bye
 Goodbye! Have a nice day 💖
 ```
 Output:
+<img width="1536" height="889" alt="Image" src="https://github.com/user-attachments/assets/30be2b1c-d594-4f27-9c12-972e4827a731" />
 
 
 ##  Applications
