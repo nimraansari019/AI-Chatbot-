@@ -28,7 +28,7 @@ The chatbot runs in a terminal or Python IDLE environment, where the user can ty
 
 ---
 
-## 🛠️ How the Chatbot Works
+## 🛠 How the Chatbot Works
 
 1. **Preprocessing User Input:**
 
@@ -73,7 +73,8 @@ Guido van Rossum created Python in 1991.
 Ask me: bye
 Goodbye! Have a nice day 💖
 ```
-
+Output:
+[chatbotoutput.py](https://github.com/user-attachments/files/21813550/chatbotoutput.py)
 ---
 
 ##  Applications
