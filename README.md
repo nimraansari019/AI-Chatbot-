@@ -44,32 +44,8 @@ The chatbot runs in a terminal or Python IDLE environment, where the user can ty
    * If not recognized → chatbot politely asks the user to rephrase.
    * If the user types `"bye"` or `"exit"` → chatbot says goodbye and ends the conversation.
 
----
 
-##  Example Interaction
 
-```
-🤖 Welcome to NLP Chatbot!
-You can ask me things like:
-• What is Python?
-• Who created Python?
-• What is AI?
-• Tell me something interesting
-• What is Machine Learning?
-
-Type 'bye' or 'exit' to end.
-
-Ask me: what is python
-✨ Here's what I found:
-Python is a popular programming language.
-
-Ask me: who created python
-✨ Here's what I found:
-Guido van Rossum created Python in 1991.
-
-Ask me: bye
-Goodbye! Have a nice day 💖
-```
 Output:
 <img width="1536" height="889" alt="Image" src="https://github.com/user-attachments/assets/30be2b1c-d594-4f27-9c12-972e4827a731" />
 
